@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonClick" type="id" />
+    <item name="buttonReset" type="id" />
+    <item name="TextViewCount" type="id" />
+</resources>
